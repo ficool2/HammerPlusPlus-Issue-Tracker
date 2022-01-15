@@ -2,7 +2,7 @@
 
 Here you can report any bugs or problems you encounter with Hammer++, as well as request any features.
 
-# Reporting a bug
+# Reporting a bug or crash
 
 Make a new Issue in the "Issues" tab, and provide the following:
 - Short description of the bug as the title
